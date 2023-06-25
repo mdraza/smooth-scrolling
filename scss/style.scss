@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.hero-section {
+  padding: 100px 0;
+  background: #c6d2ec;
+}
+.hero-section {
+  .right-image {
+    img {
+      width: 100%;
+    }
+  }
+}
+
+.project {
+  padding: 100px 0;
+  h2 {
+    text-align: center;
+    padding-bottom: 50px;
+  }
+}
